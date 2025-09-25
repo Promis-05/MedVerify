@@ -1,0 +1,5 @@
+Copyright (c) 2025 Promise Nwaba. All rights reserved.
+
+This repository and its contents are proprietary. No rights are granted to copy, modify, distribute, or create derivative works derived from this repository without prior written permission from the copyright holder.
+
+For collaboration or licensing inquiries contact: promisenwaba@gmail.com
